@@ -22,5 +22,5 @@ int main(){
    scanf("%f", int N2);
    for(int N1 = 1; N1<=10;N1+=1){
         printf(N2, "X", N1, "\n");
-   }
+   }a
 }
