@@ -1,4 +1,4 @@
-n = int(input("Digite um numero para saber seu cubo: "))
+n = int(input("Digite um numero: "))
 if n <= 50:
     i = 1
     while True:
